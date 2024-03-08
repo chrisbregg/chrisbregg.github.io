@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+#About Me
 
-Maybe say a some things about yourself.
+I am a software developer and manager with over 8 years of experience.
 
-Or maybe what you plan to blog about.
+#This Blog
+
+On this blog you might find articles about things I know or am currently learning, or my thoughts on software.
